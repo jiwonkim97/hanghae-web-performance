@@ -8,8 +8,6 @@ function showTopBar(){
     }, 1000);
 }
 
-
-
 showTopBar();
 
 
